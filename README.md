@@ -1,2 +1,2 @@
-# Introduction
+# Impact assessment of windfarm construction on animal density
 This analysis investigates whether the construction of a windfarm affected local bird populations using environmental impact assessment (EIA) data from aircraft bird surveys and data about the proposed construction area. The primary goal is to inform renewable energy stakeholders about potential ecological impacts of windfarm construction, crucial to balancing renewable energy development with ecological preservation.
